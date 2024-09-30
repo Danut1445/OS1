@@ -1,0 +1,6 @@
+--2024-01-06 17:58:44--  http://localhost:8888/static/small06.dat
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8888... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Giving up.
+
